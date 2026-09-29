@@ -12,7 +12,7 @@ For each topic:
 2. Work through the corresponding Jupyter notebook.
 3. Run and modify the provided code.
 4. Observe and interpret the results.
-5. Answer the related questions in the [Questions](./Questions) folder.
+5. Discuss the related questions in the [Questions](./Questions) folder.
 
 The emphasis is on understanding the main ideas behind the models rather than only running the code.
 
@@ -63,8 +63,7 @@ or
 jupyter notebook
 ```
 
-Then follow the exercises in the order shown above.
 
 ## Goal
 
-By the end of the exercise series, you should have practical experience with the progression from basic neural-network and representation-learning concepts to modern generative models such as **PixelCNNs, GANs, Normalizing Flows, VAEs, and Diffusion Models**.
+By the end of the exercise series, you should have practical experience with the progression from basic neural-network and representation-learning concepts to modern generative models such as **PixelCNNs, GANs, Normalizing Flows, VAEs, and Diffusion Models etc.,**.
